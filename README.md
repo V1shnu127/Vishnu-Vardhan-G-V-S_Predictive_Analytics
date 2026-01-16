@@ -50,8 +50,7 @@ This project applies an **ARIMA** model to forecast hourly electricity consumpti
 ### Error Metrics Used
 
 - **MAE (Mean Absolute Error)**  
-- **RMSE (Root Mean Squared Error)**  
-- **MAPE (Mean Absolute Percentage Error)**  
+- **RMSE (Root Mean Squared Error)** 
 
 These metrics provide complementary perspectives on forecast accuracy.
 
