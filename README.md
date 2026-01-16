@@ -47,7 +47,7 @@ This project applies an **ARIMA** model to forecast hourly electricity consumpti
 
 ---
 
-### 🔢 Error Metrics Used
+### Error Metrics Used
 
 - **MAE (Mean Absolute Error)**  
 - **RMSE (Root Mean Squared Error)**  
@@ -75,7 +75,3 @@ These metrics provide complementary perspectives on forecast accuracy.
   - ARIMA struggles to capture **sharp demand spikes**, which are common in hourly electricity data.
 
 ---
-
-### Conclusion
-
-ARIMA provides an interpretable and statistically sound baseline for energy consumption forecasting. While effective for trend estimation and short-term prediction, seasonal and nonlinear models are recommended for higher accuracy in real-world deployment.
